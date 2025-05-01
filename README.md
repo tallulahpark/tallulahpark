@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm Tallulah (she/her)
-I'm currently a first year engineering student
+I'm currently a Engineering Student at the University of British Columbia
+
+I'm currently open to job opportunities
 
 <!--
 **tallulahpark/tallulahpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
